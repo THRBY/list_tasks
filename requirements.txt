@@ -1,0 +1,7 @@
+#python 3.7.3
+django==2.2
+djangorestframework==3.10
+celery==4.4
+django-rest-auth==0.9.5
+celery[redis]
+redis==3.5
